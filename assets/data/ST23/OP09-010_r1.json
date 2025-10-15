@@ -1,0 +1,54 @@
+{
+  "id": "OP09-010_r1",
+  "basicInfo": {
+    "name": "Bonk Punch",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/OP09-010_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[On Play] Play up to 1 [Monster] from your hand.",
+        "conditions": [
+          "This Character is played onto the field",
+          "You have at least 1 card named [Monster] in your hand"
+        ],
+        "steps": [
+          "(Optional) Choose 1 [Monster] card from your hand",
+          "Play the chosen [Monster] card onto your field",
+          "If you do, you don't have to pay the cost"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You don't have to play a [Monster] card if you don't want to"
+        ]
+      },
+      {
+        "description": "[DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
+        "conditions": [
+          "This Character has 1 DON!! card attached",
+          "This Character is attacking"
+        ],
+        "steps": [
+          "When this Character attacks, give it +2000 power for this turn"
+        ],
+        "notes": [
+          "You don't need to activate this manually — it happens automatically when this Character attacks with 1 DON!! attached",
+          "The power bonus lasts only until the end of this turn"
+        ]
+      }
+    ]
+  }
+}

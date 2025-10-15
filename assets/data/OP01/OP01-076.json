@@ -1,0 +1,22 @@
+{
+  "id": "OP01-076",
+  "basicInfo": {
+    "name": "Bellamy",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-076.png",
+    "types": [
+      "Dressrosa"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000
+  }
+}

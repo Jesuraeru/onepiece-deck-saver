@@ -1,0 +1,21 @@
+{
+  "id": "OP01-070",
+  "basicInfo": {
+    "name": "Dracule Mihawk",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-070.png",
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 9,
+    "power": 9000
+  }
+}

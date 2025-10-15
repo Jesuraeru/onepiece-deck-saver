@@ -1,0 +1,22 @@
+{
+  "id": "OP09-006_r1",
+  "basicInfo": {
+    "name": "Howling Gab",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/OP09-006_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 5,
+    "power": 7000,
+    "counter": 1000
+  }
+}

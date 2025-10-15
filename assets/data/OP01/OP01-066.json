@@ -1,0 +1,22 @@
+{
+  "id": "OP01-066",
+  "basicInfo": {
+    "name": "Krieg",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-066.png",
+    "types": [
+      "Krieg Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "OP01-093",
+  "basicInfo": {
+    "name": "Ulti",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-093.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 3000
+  }
+}

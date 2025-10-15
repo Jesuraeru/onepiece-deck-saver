@@ -1,0 +1,55 @@
+{
+  "id": "OP01-014",
+  "basicInfo": {
+    "name": "Jinbe",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-014.png",
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "conditions": [
+          "Your opponent declares an attack",
+          "This card is active (not rested)"
+        ],
+        "steps": [
+          "(Optional) Rest this card to change the attack target to this Character"
+        ],
+        "notes": [
+          "You can only use this effect when your opponent declares an attack",
+          "You don't have to use this effect — it's your choice",
+          "After using this effect, this card becomes rested"
+        ]
+      },
+      {
+        "description": "[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+        "conditions": [
+          "You are using this Character to block an attack",
+          "This Character has at least 1 DON!! card attached",
+          "You have a red Character card in your hand that costs 2 or less"
+        ],
+        "steps": [
+          "(Optional) Play 1 red Character card from your hand that costs 2 or less onto your field"
+        ],
+        "notes": [
+          "This effect activates when this Character blocks an attack and has 1 DON!! attached",
+          "You can choose not to play any card even if you have one",
+          "The played Character enters the field immediately without cost"
+        ]
+      }
+    ]
+  }
+}

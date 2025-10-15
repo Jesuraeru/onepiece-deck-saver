@@ -1,0 +1,20 @@
+{
+  "id": "OP01-029",
+  "basicInfo": {
+    "name": "Radical Beam!!",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-029.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

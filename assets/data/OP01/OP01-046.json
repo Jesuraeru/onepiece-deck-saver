@@ -1,0 +1,22 @@
+{
+  "id": "OP01-046",
+  "basicInfo": {
+    "name": "Denjiro",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-046.png",
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 5,
+    "power": 7000
+  }
+}

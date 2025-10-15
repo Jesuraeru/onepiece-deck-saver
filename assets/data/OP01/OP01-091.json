@@ -1,0 +1,21 @@
+{
+  "id": "OP01-091",
+  "basicInfo": {
+    "name": "King",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-091.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SPECIAL",
+    "life": 5,
+    "power": 5000
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "OP01-045",
+  "basicInfo": {
+    "name": "Jean Bart",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-045.png",
+    "types": [
+      "Heart Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000
+  }
+}

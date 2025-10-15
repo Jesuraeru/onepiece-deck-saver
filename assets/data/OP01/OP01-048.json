@@ -1,0 +1,24 @@
+{
+  "id": "OP01-048",
+  "basicInfo": {
+    "name": "Nekomamushi",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-048.png",
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000
+  }
+}

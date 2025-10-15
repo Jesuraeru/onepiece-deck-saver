@@ -1,0 +1,24 @@
+{
+  "id": "OP01-054",
+  "basicInfo": {
+    "name": "X.Drake",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-054.png",
+    "types": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000
+  }
+}

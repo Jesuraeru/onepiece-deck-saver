@@ -1,0 +1,50 @@
+{
+  "id": "ST23-002",
+  "basicInfo": {
+    "name": "Shanks",
+    "set": "ST23",
+    "rarity": "SR",
+    "image": "assets/images/ST23/ST23-002.png",
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 9,
+    "power": 10000,
+    "effects": [
+      {
+        "description": "If your opponent has a Character with 8000 base power or more, give this card in your hand -3 cost.",
+        "conditions": [
+          "Your opponent has at least 1 Character with base power 8000 or more",
+          "This card is in your hand"
+        ],
+        "steps": [
+          "Reduce the cost of this card in your hand by 3"
+        ],
+        "notes": [
+          "This effect automatically applies while the condition (opponent having a Character with 8000 base power or more) is true"
+        ]
+      },
+      {
+        "description": "[On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
+        "conditions": [
+          "This Character is played onto the field",
+          "Your Leader has the {Red-Haired Pirates} type or is [Uta]"
+        ],
+        "steps": [
+          "Your Leader gains +2000 power until the end of your opponent's next End Phase"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played"
+        ]
+      }
+    ]
+  }
+}

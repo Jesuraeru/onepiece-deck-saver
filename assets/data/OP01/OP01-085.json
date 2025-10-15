@@ -1,0 +1,22 @@
+{
+  "id": "OP01-085",
+  "basicInfo": {
+    "name": "Mr.3(Galdino)",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-085.png",
+    "types": [
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000
+  }
+}

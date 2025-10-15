@@ -1,0 +1,22 @@
+{
+  "id": "OP01-094",
+  "basicInfo": {
+    "name": "Kaido",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-094.png",
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 10,
+    "power": 12000
+  }
+}

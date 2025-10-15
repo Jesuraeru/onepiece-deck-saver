@@ -1,0 +1,22 @@
+{
+  "id": "OP01-120",
+  "basicInfo": {
+    "name": "Shanks",
+    "set": "OP01",
+    "rarity": "SEC",
+    "image": "assets/images/OP01/OP01-120.png",
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 9,
+    "power": 10000
+  }
+}

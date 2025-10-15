@@ -1,0 +1,22 @@
+{
+  "id": "OP09-016_r1",
+  "basicInfo": {
+    "name": "Rockstar",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/OP09-016_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "OP01-057",
+  "basicInfo": {
+    "name": "Paradise Waterfall",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-057.png",
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

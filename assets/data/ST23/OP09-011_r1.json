@@ -1,0 +1,42 @@
+{
+  "id": "OP09-011_r1",
+  "basicInfo": {
+    "name": "Hongo",
+    "set": "ST23",
+    "rarity": "UC",
+    "image": "assets/images/ST23/OP09-011_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 3000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters -2000 power during this turn.",
+        "conditions": [
+          "It is your Main Phase",
+          "You have not used this effect yet this turn",
+          "Your Leader has the {Red-Haired Pirates} type"
+        ],
+        "steps": [
+          "Rest this Character to activate the effect",
+          "Choose up to 1 of your opponent's Characters",
+          "That chosen Character gets -2000 power during this turn"
+        ],
+        "notes": [
+          "You must rest this Character to use the effect",
+          "This effect can only be used during your Main Phase",
+          "You may choose not to use this effect"
+        ]
+      }
+    ]
+  }
+}

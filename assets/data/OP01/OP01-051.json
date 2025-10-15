@@ -1,0 +1,22 @@
+{
+  "id": "OP01-051",
+  "basicInfo": {
+    "name": "Eustass\"Captain\"Kid",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-051.png",
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 8,
+    "power": 8000
+  }
+}

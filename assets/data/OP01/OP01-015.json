@@ -1,0 +1,23 @@
+{
+  "id": "OP01-015",
+  "basicInfo": {
+    "name": "Tony Tony.Chopper",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-015.png",
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "WISDOM",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

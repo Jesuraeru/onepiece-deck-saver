@@ -1,0 +1,23 @@
+{
+  "id": "OP01-010",
+  "basicInfo": {
+    "name": "Komachiyo",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-010.png",
+    "types": [
+      "Animal",
+      "Land of Wano"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000
+  }
+}

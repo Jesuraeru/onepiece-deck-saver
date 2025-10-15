@@ -1,0 +1,21 @@
+{
+  "id": "OP01-116",
+  "basicInfo": {
+    "name": "Artificial Devil Fruit SMILE",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-116.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

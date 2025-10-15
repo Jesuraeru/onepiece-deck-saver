@@ -1,0 +1,23 @@
+{
+  "id": "OP01-039",
+  "basicInfo": {
+    "name": "Killer",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-039.png",
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000
+  }
+}

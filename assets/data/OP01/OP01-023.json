@@ -1,0 +1,22 @@
+{
+  "id": "OP01-023",
+  "basicInfo": {
+    "name": "Marco",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-023.png",
+    "types": [
+      "Former Whitebeard Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "OP09-012_r1",
+  "basicInfo": {
+    "name": "Monster",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/OP09-012_r1.png",
+    "types": [
+      "Animal",
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "If your Character [Bonk Punch] would be K.O.'d by an effect, you may trash this Character instead.",
+        "conditions": [
+          "[Bonk Punch] would be K.O.'d by an effect"
+        ],
+        "steps": [
+          "(Optional) Trash [Bonk Punch] instead of letting it be K.O.'d"
+        ],
+        "notes": [
+          "You can choose not to use this effect and let [Bonk Punch] be K.O.'d",
+          "This effect only triggers when [Bonk Punch] would be K.O.'d by an effect, not by battle"
+        ]
+      }
+    ]
+  }
+}

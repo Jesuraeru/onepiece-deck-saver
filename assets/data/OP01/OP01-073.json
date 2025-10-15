@@ -1,0 +1,23 @@
+{
+  "id": "OP01-073",
+  "basicInfo": {
+    "name": "Donquixote Doflamingo",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-073.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

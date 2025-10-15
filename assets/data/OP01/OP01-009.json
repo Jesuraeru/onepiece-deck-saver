@@ -1,0 +1,38 @@
+{
+  "id": "OP01-009",
+  "basicInfo": {
+    "name": "Carrot",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-009.png",
+    "types": [
+      "Minks"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "triggers": [
+      {
+        "description": "[Trigger] Play this card.",
+        "conditions": [
+          "This card is revealed from your Life area as a Trigger"
+        ],
+        "steps": [
+          "(Optional) Play this card onto your field"
+        ],
+        "notes": [
+          "You can choose whether or not to use this Trigger effect",
+          "If you do, you don't have to pay the cost",
+          "If you don't want to play this card, you can leave it in your hand instead"
+        ]
+      }
+    ]
+  }
+}

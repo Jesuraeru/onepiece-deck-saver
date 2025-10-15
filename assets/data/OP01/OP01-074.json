@@ -1,0 +1,23 @@
+{
+  "id": "OP01-074",
+  "basicInfo": {
+    "name": "Bartholomew Kuma",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-074.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

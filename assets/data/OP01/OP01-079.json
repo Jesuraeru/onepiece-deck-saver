@@ -1,0 +1,22 @@
+{
+  "id": "OP01-079",
+  "basicInfo": {
+    "name": "Ms. All Sunday",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-079.png",
+    "types": [
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 1000,
+    "counter": 1000
+  }
+}

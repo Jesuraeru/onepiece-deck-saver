@@ -1,0 +1,22 @@
+{
+  "id": "OP01-040",
+  "basicInfo": {
+    "name": "Kin'emon",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-040.png",
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 6,
+    "power": 6000
+  }
+}

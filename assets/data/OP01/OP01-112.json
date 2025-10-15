@@ -1,0 +1,22 @@
+{
+  "id": "OP01-112",
+  "basicInfo": {
+    "name": "Page One",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-112.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

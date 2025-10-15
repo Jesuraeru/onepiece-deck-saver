@@ -1,0 +1,22 @@
+{
+  "id": "OP01-075",
+  "basicInfo": {
+    "name": "Pacifista",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-075.png",
+    "types": [
+      "Biological Weapon",
+      "Navy"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 4,
+    "power": 5000
+  }
+}

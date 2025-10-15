@@ -1,0 +1,40 @@
+{
+  "id": "OP09-014_r1",
+  "basicInfo": {
+    "name": "Limejuice",
+    "set": "ST23",
+    "rarity": "UC",
+    "image": "assets/images/ST23/OP09-014_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 3000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[On Play] Your opponent cannot activate up to 1 [Blocker] Character that has 4000 power or less during this turn.",
+        "conditions": [
+          "This Character is played onto the field",
+          "Your opponent has at least 1 [Blocker] Character with 4000 power or less"
+        ],
+        "steps": [
+          "(Optional) Choose up to 1 of your opponent's [Blocker] Characters with 4000 power or less",
+          "That Character cannot be activated during this turn"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You can choose not to use this effect even if there is a valid target",
+          "The restriction lasts until the end of this turn"
+        ]
+      }
+    ]
+  }
+}

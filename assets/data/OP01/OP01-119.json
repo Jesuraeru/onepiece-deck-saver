@@ -1,0 +1,21 @@
+{
+  "id": "OP01-119",
+  "basicInfo": {
+    "name": "Thunder Bagua",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-119.png",
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

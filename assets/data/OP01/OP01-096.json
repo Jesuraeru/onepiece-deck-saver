@@ -1,0 +1,21 @@
+{
+  "id": "OP01-096",
+  "basicInfo": {
+    "name": "King",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-096.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 7,
+    "power": 7000
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "OP01-053",
+  "basicInfo": {
+    "name": "Wire",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-053.png",
+    "types": [
+      "Kid Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000
+  }
+}

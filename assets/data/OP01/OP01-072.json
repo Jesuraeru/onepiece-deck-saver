@@ -1,0 +1,23 @@
+{
+  "id": "OP01-072",
+  "basicInfo": {
+    "name": "Smiley",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-072.png",
+    "types": [
+      "Biological Weapon",
+      "Punk Hazard"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 1000,
+    "counter": 1000
+  }
+}

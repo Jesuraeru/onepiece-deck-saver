@@ -1,0 +1,21 @@
+{
+  "id": "OP01-021",
+  "basicInfo": {
+    "name": "Franky",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-021.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 3,
+    "power": 4000
+  }
+}

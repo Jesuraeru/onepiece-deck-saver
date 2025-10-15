@@ -1,0 +1,24 @@
+{
+  "id": "OP01-065",
+  "basicInfo": {
+    "name": "Vergo",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-065.png",
+    "types": [
+      "Navy",
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 5,
+    "power": 7000,
+    "counter": 1000
+  }
+}

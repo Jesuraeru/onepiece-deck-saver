@@ -1,0 +1,23 @@
+{
+  "id": "OP01-110",
+  "basicInfo": {
+    "name": "Fukurokuju",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-110.png",
+    "types": [
+      "Land of Wano",
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 6,
+    "power": 8000,
+    "counter": 1000
+  }
+}

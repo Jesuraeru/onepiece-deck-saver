@@ -1,0 +1,44 @@
+{
+  "id": "OP01-002",
+  "basicInfo": {
+    "name": "Trafalgar Law",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-002.png",
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "colors": [
+      "Red",
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SLASH",
+    "life": 4,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): If you have 5 Characters, return 1 of your Characters to the owner's hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned Character.",
+        "conditions": [
+          "It is your Main Phase",
+          "You haven't used this effect yet this turn",
+          "You have 5 Characters on your field",
+          "You have 2 active DON!! cards you can rest"
+        ],
+        "steps": [
+          "Rest 2 DON!! cards to activate this effect",
+          "Choose 1 of your Characters and return it to your hand",
+          "(Optional) Play 1 Character from your hand that costs 5 or less and has a different color from the returned Character"
+        ],
+        "notes": [
+          "You must activate this effect yourself during your Main Phase",
+          "You can't use this effect if you don't have 5 Characters on your field",
+          "You can choose not to play a new Character after returning one"
+        ]
+      }
+    ]
+  }
+}

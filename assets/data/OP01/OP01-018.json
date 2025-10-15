@@ -1,0 +1,23 @@
+{
+  "id": "OP01-018",
+  "basicInfo": {
+    "name": "Hajrudin",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-018.png",
+    "types": [
+      "Giant",
+      "New Giant Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000
+  }
+}

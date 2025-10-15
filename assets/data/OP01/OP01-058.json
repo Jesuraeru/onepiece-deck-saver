@@ -1,0 +1,21 @@
+{
+  "id": "OP01-058",
+  "basicInfo": {
+    "name": "Punk Gibson",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-058.png",
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

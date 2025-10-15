@@ -1,0 +1,22 @@
+{
+  "id": "OP01-031",
+  "basicInfo": {
+    "name": "Kouzuki Oden",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-031.png",
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SLASH",
+    "life": 5,
+    "power": 5000
+  }
+}

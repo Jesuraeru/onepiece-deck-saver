@@ -1,0 +1,20 @@
+{
+  "id": "OP01-028",
+  "basicInfo": {
+    "name": "Green Star Rafflesia",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-028.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "OP01-117",
+  "basicInfo": {
+    "name": "Sheep's Horn",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-117.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

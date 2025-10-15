@@ -1,0 +1,22 @@
+{
+  "id": "OP01-084",
+  "basicInfo": {
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-084.png",
+    "types": [
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000
+  }
+}

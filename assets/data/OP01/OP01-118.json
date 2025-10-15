@@ -1,0 +1,20 @@
+{
+  "id": "OP01-118",
+  "basicInfo": {
+    "name": "Ulti-Mortar",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-118.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

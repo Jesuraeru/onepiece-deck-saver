@@ -1,0 +1,22 @@
+{
+  "id": "OP01-102",
+  "basicInfo": {
+    "name": "Jack",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-102.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

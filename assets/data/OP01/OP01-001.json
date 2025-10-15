@@ -1,0 +1,40 @@
+{
+  "id": "OP01-001",
+  "basicInfo": {
+    "name": "Roronoa Zoro",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-001.png",
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SLASH",
+    "life": 5,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+        "conditions": [
+          "It is your turn",
+          "You have 1 DON!! card attached to your Leader"
+        ],
+        "steps": [
+          "Attach 1 active DON!! card from your DON!! area to this Leader",
+          "All of your Characters gain +1000 power during this turn"
+        ],
+        "notes": [
+          "You do not need to activate this effect manually",
+          "This effect works automatically during your turn while your Leader has 1 DON!! attached",
+          "The power boost ends after your turn"
+        ]
+      }
+    ]
+  }
+}

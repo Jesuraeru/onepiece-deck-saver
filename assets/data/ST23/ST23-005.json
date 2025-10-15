@@ -1,0 +1,41 @@
+{
+  "id": "ST23-005",
+  "basicInfo": {
+    "name": "Yasopp",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/ST23-005.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "conditions": [
+          "It is your Main Phase",
+          "You have at least 1 rested DON!! card",
+          "You have not used this effect yet this turn"
+        ],
+        "steps": [
+          "(Optional) Choose 1 rested DON!! card",
+          "Attach it to your Leader or 1 of your Characters"
+        ],
+        "notes": [
+          "You can choose not to use this effect even if all conditions are met",
+          "This effect can only be used once per turn",
+          "The DON!! card must be rested when attaching"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "OP01-068",
+  "basicInfo": {
+    "name": "Gecko Moria",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-068.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

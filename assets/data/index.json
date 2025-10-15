@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ST23",
+    "name": "RED Shanks",
+    "thumbnail": "assets/images/card-set/ST23.png",
+    "count": 120
+  },
+  {
+    "id": "OP13",
+    "name": "Carrying On His Will",
+    "thumbnail": "assets/images/card-set/OP13.png",
+    "count": 120
+  },
+  {
+    "id": "OP12",
+    "name": "Legacy Of The Master",
+    "thumbnail": "assets/images/card-set/OP12.png",
+    "count": 120
+  },
+  {
+    "id": "OP11",
+    "name": "A Fist Of Divine Speed",
+    "thumbnail": "assets/images/card-set/OP11.png",
+    "count": 120
+  },
+  {
+    "id": "OP10",
+    "name": "Royal Blood",
+    "thumbnail": "assets/images/card-set/OP10.png",
+    "count": 120
+  },
+  {
+    "id": "OP09",
+    "name": "Emperors In The New World",
+    "thumbnail": "assets/images/card-set/OP09.png",
+    "count": 120
+  },
+  {
+    "id": "OP08",
+    "name": "Two Legends",
+    "thumbnail": "assets/images/card-set/OP08.png",
+    "count": 120
+  },
+  {
+    "id": "OP07",
+    "name": "500 Years In The Future",
+    "thumbnail": "assets/images/card-set/OP07.png",
+    "count": 120
+  },
+  {
+    "id": "OP06",
+    "name": "Wings Of The Captain",
+    "thumbnail": "assets/images/card-set/OP06.png",
+    "count": 120
+  },
+  {
+    "id": "OP05",
+    "name": "Awakening Of The New Era",
+    "thumbnail": "assets/images/card-set/OP05.png",
+    "count": 120
+  },
+  {
+    "id": "OP04",
+    "name": "Kingdoms Of Intrigue",
+    "thumbnail": "assets/images/card-set/OP04.png",
+    "count": 120
+  },
+  {
+    "id": "OP03",
+    "name": "Pillars Of Strength",
+    "thumbnail": "assets/images/card-set/OP03.png",
+    "count": 120
+  },
+  {
+    "id": "OP02",
+    "name": "Paramount War",
+    "thumbnail": "assets/images/card-set/OP02.png",
+    "count": 120
+  },
+  {
+    "id": "OP01",
+    "name": "Romance Dawn",
+    "thumbnail": "assets/images/card-set/OP01.png",
+    "count": 120
+  }
+]

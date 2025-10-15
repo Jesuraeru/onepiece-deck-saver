@@ -1,0 +1,23 @@
+{
+  "id": "OP01-049",
+  "basicInfo": {
+    "name": "Bepo",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-049.png",
+    "types": [
+      "Minks",
+      "Heart Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 4000,
+    "counter": 2000
+  }
+}

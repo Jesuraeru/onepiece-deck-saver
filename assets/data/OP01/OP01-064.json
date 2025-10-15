@@ -1,0 +1,22 @@
+{
+  "id": "OP01-064",
+  "basicInfo": {
+    "name": "Alvida",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-064.png",
+    "types": [
+      "Buggy Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 3000,
+    "counter": 2000
+  }
+}

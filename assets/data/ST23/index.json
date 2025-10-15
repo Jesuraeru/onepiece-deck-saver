@@ -1,0 +1,77 @@
+[
+  {
+    "id": "OP09-001_p2",
+    "name": "Shanks",
+    "image": "assets/images/ST23/OP09-001_p2.png"
+  },
+  {
+    "id": "OP09-006_r1",
+    "name": "Howling Gab",
+    "image": "assets/images/ST23/OP09-006_r1.png"
+  },
+  {
+    "id": "OP09-010_r1",
+    "name": "Bonk Punch",
+    "image": "assets/images/ST23/OP09-010_r1.png"
+  },
+  {
+    "id": "OP09-011_r1",
+    "name": "Hongo",
+    "image": "assets/images/ST23/OP09-011_r1.png"
+  },
+  {
+    "id": "OP09-012_r1",
+    "name": "Monster",
+    "image": "assets/images/ST23/OP09-012_r1.png"
+  },
+  {
+    "id": "OP09-013_r1",
+    "name": "Yasopp",
+    "image": "assets/images/ST23/OP09-013_r1.png"
+  },
+  {
+    "id": "OP09-014_r1",
+    "name": "Limejuice",
+    "image": "assets/images/ST23/OP09-014_r1.png"
+  },
+  {
+    "id": "OP09-015_r1",
+    "name": "Lucky.Roux",
+    "image": "assets/images/ST23/OP09-015_r1.png"
+  },
+  {
+    "id": "OP09-016_r1",
+    "name": "Rockstar",
+    "image": "assets/images/ST23/OP09-016_r1.png"
+  },
+  {
+    "id": "OP09-020_r1",
+    "name": "Come On!! We'll Fight You!!",
+    "image": "assets/images/ST23/OP09-020_r1.png"
+  },
+  {
+    "id": "ST23-001",
+    "name": "Uta",
+    "image": "assets/images/ST23/ST23-001.png"
+  },
+  {
+    "id": "ST23-002",
+    "name": "Shanks",
+    "image": "assets/images/ST23/ST23-002.png"
+  },
+  {
+    "id": "ST23-003",
+    "name": "Benn.Beckman",
+    "image": "assets/images/ST23/ST23-003.png"
+  },
+  {
+    "id": "ST23-004",
+    "name": "Monkey.D.Luffy",
+    "image": "assets/images/ST23/ST23-004.png"
+  },
+  {
+    "id": "ST23-005",
+    "name": "Yasopp",
+    "image": "assets/images/ST23/ST23-005.png"
+  }
+]

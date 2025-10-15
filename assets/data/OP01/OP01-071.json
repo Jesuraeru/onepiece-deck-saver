@@ -1,0 +1,22 @@
+{
+  "id": "OP01-071",
+  "basicInfo": {
+    "name": "Jinbe",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-071.png",
+    "types": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 4,
+    "power": 2000
+  }
+}

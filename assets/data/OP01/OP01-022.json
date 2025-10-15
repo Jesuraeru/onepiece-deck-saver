@@ -1,0 +1,22 @@
+{
+  "id": "OP01-022",
+  "basicInfo": {
+    "name": "Brook",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-022.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

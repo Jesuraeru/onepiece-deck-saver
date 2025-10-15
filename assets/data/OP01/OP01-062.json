@@ -1,0 +1,23 @@
+{
+  "id": "OP01-062",
+  "basicInfo": {
+    "name": "Crocodile",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-062.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SPECIAL",
+    "life": 4,
+    "power": 5000
+  }
+}

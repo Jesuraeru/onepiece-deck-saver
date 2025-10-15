@@ -1,0 +1,23 @@
+{
+  "id": "OP01-103",
+  "basicInfo": {
+    "name": "Scratchmen Apoo",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-103.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "On-Air Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000
+  }
+}

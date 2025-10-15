@@ -1,0 +1,22 @@
+{
+  "id": "OP01-020",
+  "basicInfo": {
+    "name": "Hyogoro",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-020.png",
+    "types": [
+      "Land of Wano"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000
+  }
+}

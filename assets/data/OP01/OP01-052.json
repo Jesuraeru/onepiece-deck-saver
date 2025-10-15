@@ -1,0 +1,23 @@
+{
+  "id": "OP01-052",
+  "basicInfo": {
+    "name": "Raizo",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-052.png",
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

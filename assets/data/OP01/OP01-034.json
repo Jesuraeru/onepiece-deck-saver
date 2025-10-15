@@ -1,0 +1,24 @@
+{
+  "id": "OP01-034",
+  "basicInfo": {
+    "name": "Inuarashi",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-034.png",
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

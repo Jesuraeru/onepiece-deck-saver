@@ -1,0 +1,22 @@
+{
+  "id": "OP01-101",
+  "basicInfo": {
+    "name": "Sasaki",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-101.png",
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000
+  }
+}

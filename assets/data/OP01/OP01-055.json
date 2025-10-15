@@ -1,0 +1,21 @@
+{
+  "id": "OP01-055",
+  "basicInfo": {
+    "name": "You Can Be My Samurai!!",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-055.png",
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

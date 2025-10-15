@@ -1,0 +1,22 @@
+{
+  "id": "OP01-121",
+  "basicInfo": {
+    "name": "Yamato",
+    "set": "OP01",
+    "rarity": "SEC",
+    "image": "assets/images/OP01/OP01-121.png",
+    "types": [
+      "Land of Wano"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 5,
+    "power": 5000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "OP01-041",
+  "basicInfo": {
+    "name": "Kouzuki Momonosuke",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-041.png",
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 1,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "OP01-114",
+  "basicInfo": {
+    "name": "X.Drake",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-114.png",
+    "types": [
+      "Navy",
+      "Drake Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 5,
+    "power": 5000,
+    "counter": 2000
+  }
+}

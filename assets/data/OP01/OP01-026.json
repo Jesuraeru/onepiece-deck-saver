@@ -1,0 +1,21 @@
+{
+  "id": "OP01-026",
+  "basicInfo": {
+    "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-026.png",
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

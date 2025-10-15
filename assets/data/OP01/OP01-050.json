@@ -1,0 +1,22 @@
+{
+  "id": "OP01-050",
+  "basicInfo": {
+    "name": "Penguin",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-050.png",
+    "types": [
+      "Heart Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 3,
+    "power": 2000,
+    "counter": 1000
+  }
+}

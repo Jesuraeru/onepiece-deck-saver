@@ -1,0 +1,21 @@
+{
+  "id": "OP01-088",
+  "basicInfo": {
+    "name": "Desert Spada",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-088.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

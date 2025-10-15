@@ -1,0 +1,38 @@
+{
+  "id": "OP01-008",
+  "basicInfo": {
+    "name": "Cavendish",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-008.png",
+    "types": [
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[On Play] You may add 1 card from your Life area to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "conditions": [
+          "This Character is played onto the field"
+        ],
+        "steps": [
+          "(Optional) Add 1 card from your Life area to your hand",
+          "If you do, this Character gains [Rush] during this turn (it can attack immediately)"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You may choose not to take a Life card if you don't want to"
+        ]
+      }
+    ]
+  }
+}

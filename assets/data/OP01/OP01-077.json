@@ -1,0 +1,22 @@
+{
+  "id": "OP01-077",
+  "basicInfo": {
+    "name": "Perona",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-077.png",
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000
+  }
+}

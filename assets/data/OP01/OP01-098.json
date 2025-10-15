@@ -1,0 +1,23 @@
+{
+  "id": "OP01-098",
+  "basicInfo": {
+    "name": "Kurozumi Orochi",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-098.png",
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "WISDOM",
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000
+  }
+}

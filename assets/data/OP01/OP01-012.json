@@ -1,0 +1,22 @@
+{
+  "id": "OP01-012",
+  "basicInfo": {
+    "name": "Sai",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-012.png",
+    "types": [
+      "Happosui Army"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000
+  }
+}

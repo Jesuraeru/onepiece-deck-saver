@@ -1,0 +1,44 @@
+{
+  "id": "ST23-003",
+  "basicInfo": {
+    "name": "Benn.Beckman",
+    "set": "ST23",
+    "rarity": "C",
+    "image": "assets/images/ST23/ST23-003.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[On Play] You may trash 1 card from your hand: If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with 4000 base power or less.",
+        "conditions": [
+          "This Character is played onto the field",
+          "You have at least 1 card in your hand",
+          "Your Leader has the {Red-Haired Pirates} type",
+          "Your opponent has at least 1 Character with base power 4000 or less"
+        ],
+        "steps": [
+          "(Optional) Trash 1 card from your hand",
+          "If you trashed a card, choose up to 1 of your opponent's Characters with base power 4000 or less",
+          "K.O. the chosen Character"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You can choose not to trash a card, in which case the K.O. effect does not happen",
+          "The K.O. target must meet the base power requirement",
+          "If your Leader has no {Red-Haired Pirates} type or the opponent has no Characters with 4000 base power or less, you can still choose to trash a card"
+        ]
+      }
+    ]
+  }
+}

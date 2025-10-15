@@ -1,0 +1,54 @@
+{
+  "id": "OP09-013_r1",
+  "basicInfo": {
+    "name": "Yasopp",
+    "set": "ST23",
+    "rarity": "R",
+    "image": "assets/images/ST23/OP09-013_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.",
+        "conditions": [
+          "This Character is played onto the field"
+        ],
+        "steps": [
+          "(Optional) Choose 1 of your Leaders",
+          "That Leader gains +1000 power until the end of your opponent's next turn"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You can choose not to give the bonus to any Leader"
+        ]
+      },
+      {
+        "description": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "conditions": [
+          "This Character has 1 DON!! card attached",
+          "This Character is attacking"
+        ],
+        "steps": [
+          "(Optional) Choose up to 1 of your opponent's Characters",
+          "That Character gets -1000 power during this turn"
+        ],
+        "notes": [
+          "This effect happens automatically when this Character attacks with 1 DON!! attached",
+          "You can choose not to use this effect even if there is a valid target",
+          "The power reduction lasts until the end of this turn"
+        ]
+      }
+    ]
+  }
+}

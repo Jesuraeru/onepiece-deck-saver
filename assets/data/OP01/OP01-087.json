@@ -1,0 +1,20 @@
+{
+  "id": "OP01-087",
+  "basicInfo": {
+    "name": "Officer Agents",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-087.png",
+    "types": [
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "OP01-006",
+  "basicInfo": {
+    "name": "Otama",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-006.png",
+    "types": [
+      "Land of Wano"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 1,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[On Play] Give up to 1 of your opponent's Characters -2000 power during this turn.",
+        "conditions": [
+          "This Character is played onto the field"
+        ],
+        "steps": [
+          "Choose up to 1 of your opponent's Characters",
+          "Reduce that Character's power by 2000 during this turn"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You don't have to choose a Character if you don't want to"
+        ]
+      }
+    ]
+  }
+}

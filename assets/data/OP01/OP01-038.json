@@ -1,0 +1,23 @@
+{
+  "id": "OP01-038",
+  "basicInfo": {
+    "name": "Kanjuro",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-038.png",
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000
+  }
+}

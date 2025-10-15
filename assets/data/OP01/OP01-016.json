@@ -1,0 +1,22 @@
+{
+  "id": "OP01-016",
+  "basicInfo": {
+    "name": "Nami",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-016.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000
+  }
+}

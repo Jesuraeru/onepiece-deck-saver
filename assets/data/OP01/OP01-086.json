@@ -1,0 +1,21 @@
+{
+  "id": "OP01-086",
+  "basicInfo": {
+    "name": "Overheat",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-086.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 2
+  }
+}

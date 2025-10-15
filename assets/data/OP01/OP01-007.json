@@ -1,0 +1,39 @@
+{
+  "id": "OP01-007",
+  "basicInfo": {
+    "name": "Caribou",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-007.png",
+    "types": [
+      "Supernovas",
+      "Caribou Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[On K.O.] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+        "conditions": [
+          "This Character is K.O.'d (knocked out)"
+        ],
+        "steps": [
+          "(Optional) Choose 1 of your opponent's Characters with 4000 power or less",
+          "K.O. the chosen Character"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is K.O.'d",
+          "You don't have to choose a Character if you don't want to"
+        ]
+      }
+    ]
+  }
+}

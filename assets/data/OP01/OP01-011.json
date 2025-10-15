@@ -1,0 +1,38 @@
+{
+  "id": "OP01-011",
+  "basicInfo": {
+    "name": "Gordon",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-011.png",
+    "types": [
+      "FILM"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "WISDOM",
+    "cost": 2,
+    "power": 3000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[On Play] You may place 1 card from your hand at the bottom of your deck: Draw 1 card.",
+        "conditions": [
+          "This Character is played onto the field"
+        ],
+        "steps": [
+          "(Optional) Choose 1 card from your hand and place it at the bottom of your deck",
+          "If you placed a card, draw 1 card from your deck"
+        ],
+        "notes": [
+          "You can choose not to use this effect when this Character is played",
+          "You only draw a card if you placed one at the bottom of your deck"
+        ]
+      }
+    ]
+  }
+}

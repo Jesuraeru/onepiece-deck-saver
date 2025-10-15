@@ -1,0 +1,23 @@
+{
+  "id": "OP01-061",
+  "basicInfo": {
+    "name": "Kaido",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-061.png",
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "STRIKE",
+    "life": 4,
+    "power": 5000
+  }
+}

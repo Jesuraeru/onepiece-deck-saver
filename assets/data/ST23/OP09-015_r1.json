@@ -1,0 +1,55 @@
+{
+  "id": "OP09-015_r1",
+  "basicInfo": {
+    "name": "Lucky.Roux",
+    "set": "ST23",
+    "rarity": "R",
+    "image": "assets/images/ST23/OP09-015_r1.png",
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effects": [
+      {
+        "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "conditions": [
+          "Your opponent declares an attack",
+          "This card is active (not rested)"
+        ],
+        "steps": [
+          "(Optional) Rest this card to change the attack target to this Character"
+        ],
+        "notes": [
+          "You can only use this effect when your opponent declares an attack",
+          "You don't have to use this effect — it's your choice",
+          "After using this effect, this card becomes rested"
+        ]
+      },
+      {
+        "description": "[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
+        "conditions": [
+          "This Character is K.O.'d",
+          "Your Leader has the {Red-Haired Pirates} type",
+          "Your opponent has at least 1 Character with base power 6000 or less"
+        ],
+        "steps": [
+          "(Optional) Choose up to 1 of your opponent's Characters with base power 6000 or less",
+          "K.O. the chosen Character"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is K.O.'d",
+          "You can choose not to use this effect even if there is a valid target"
+        ]
+      }
+    ]
+  }
+}

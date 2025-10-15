@@ -1,0 +1,23 @@
+{
+  "id": "OP01-113",
+  "basicInfo": {
+    "name": "Holedem",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-113.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

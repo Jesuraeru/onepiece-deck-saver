@@ -1,0 +1,22 @@
+{
+  "id": "OP01-095",
+  "basicInfo": {
+    "name": "Kyoshirou",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-095.png",
+    "types": [
+      "Land of Wano"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "OP01-063",
+  "basicInfo": {
+    "name": "Arlong",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-063.png",
+    "types": [
+      "Fish-Man",
+      "Arlong Pirates"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "OP01-056",
+  "basicInfo": {
+    "name": "Demon Face",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-056.png",
+    "types": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "OP01-047",
+  "basicInfo": {
+    "name": "Trafalgar Law",
+    "set": "OP01",
+    "rarity": "SR",
+    "image": "assets/images/OP01/OP01-047.png",
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 5,
+    "power": 6000
+  }
+}

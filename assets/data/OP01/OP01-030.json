@@ -1,0 +1,20 @@
+{
+  "id": "OP01-030",
+  "basicInfo": {
+    "name": "In Two Years!! At the Sabaody Archipelago!!",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-030.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1
+  }
+}

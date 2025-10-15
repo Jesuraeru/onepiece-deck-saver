@@ -1,0 +1,40 @@
+{
+  "id": "OP01-004",
+  "basicInfo": {
+    "name": "Usopp",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-004.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "RANGED",
+    "cost": 2,
+    "power": 3000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
+        "conditions": [
+          "It is your turn",
+          "You have 1 DON!! card attached to your Leader",
+          "Your opponent activates an Event card"
+        ],
+        "steps": [
+          "When your opponent activates an Event card, draw 1 card from your deck"
+        ],
+        "notes": [
+          "This effect only works once per turn",
+          "You don't need to activate this effect manually — it happens automatically when your opponent activates an Event",
+          "This effect only works while your Leader has 1 DON!! attached"
+        ]
+      }
+    ]
+  }
+}

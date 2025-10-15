@@ -1,0 +1,21 @@
+{
+  "id": "OP01-089",
+  "basicInfo": {
+    "name": "Crescent Cutlass",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-089.png",
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 3
+  }
+}

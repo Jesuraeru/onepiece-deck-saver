@@ -1,0 +1,21 @@
+{
+  "id": "OP01-115",
+  "basicInfo": {
+    "name": "Elephant's Marchoo",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-115.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 4
+  }
+}

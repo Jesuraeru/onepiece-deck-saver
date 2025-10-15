@@ -1,0 +1,23 @@
+{
+  "id": "OP01-069",
+  "basicInfo": {
+    "name": "Caesar Clown",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-069.png",
+    "types": [
+      "Scientist",
+      "Punk Hazard"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "OP09-001_p2",
+  "basicInfo": {
+    "name": "Shanks",
+    "set": "ST23",
+    "rarity": "L",
+    "image": "assets/images/ST23/OP09-001_p2.png",
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "SLASH",
+    "life": 5,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards -1000 power during this turn.",
+        "conditions": [
+          "Your opponent declares an attack",
+          "You have not used this effect yet this turn"
+        ],
+        "steps": [
+          "(Optional) Choose 1 of your opponent's Leader or Character cards",
+          "Give the chosen card -1000 power during this turn"
+        ],
+        "notes": [
+          "You can only use this effect once per turn",
+          "This effect activates only when your opponent attacks",
+          "You may choose not to use this effect even if the condition is met"
+        ]
+      }
+    ]
+  }
+}

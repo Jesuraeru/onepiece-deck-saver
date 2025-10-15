@@ -1,0 +1,42 @@
+{
+  "id": "OP01-013",
+  "basicInfo": {
+    "name": "Sanji",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-013.png",
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 2,
+    "power": 3000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "[Activate: Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+        "conditions": [
+          "It is your Main Phase",
+          "You have at least 1 card in your Life area",
+          "You have up to 2 rested DON!! cards to give"
+        ],
+        "steps": [
+          "(Optional) Add 1 card from your Life area to your hand",
+          "If you did, this Character gains +2000 power during this turn",
+          "Then, attach up to 2 rested DON!! cards from your DON!! area to this Character"
+        ],
+        "notes": [
+          "You can only use this effect once per turn",
+          "You can choose not to use this effect",
+          "If you don't take a card from your Life area, the other effects will not happen"
+        ]
+      }
+    ]
+  }
+}

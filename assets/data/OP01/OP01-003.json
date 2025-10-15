@@ -1,0 +1,45 @@
+{
+  "id": "OP01-003",
+  "basicInfo": {
+    "name": "Monkey.D.Luffy",
+    "set": "OP01",
+    "rarity": "L",
+    "image": "assets/images/OP01/OP01-003.png",
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "colors": [
+      "Red",
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "LEADER",
+    "attribute": "STRIKE",
+    "life": 4,
+    "power": 5000,
+    "effects": [
+      {
+        "description": "[Activate: Main] [Once Per Turn] ➃ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Supernovas} or {Straw Hat Crew} type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.",
+        "conditions": [
+          "It is your Main Phase",
+          "You haven't used this effect yet this turn",
+          "You have at least 1 {Supernovas} or {Straw Hat Crew} Character with a cost of 5 or less on your field",
+          "You have 4 active DON!! cards you can rest"
+        ],
+        "steps": [
+          "Rest 4 DON!! cards to activate this effect",
+          "Choose up to 1 {Supernovas} or {Straw Hat Crew} Character with a cost of 5 or less",
+          "Set that Character to active",
+          "That Character gains +1000 power during this turn"
+        ],
+        "notes": [
+          "You must activate this effect yourself during your Main Phase",
+          "You can choose not to target any Character",
+          "The +1000 power bonus ends after this turn"
+        ]
+      }
+    ]
+  }
+}

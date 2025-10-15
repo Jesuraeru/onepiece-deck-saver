@@ -1,0 +1,57 @@
+{
+  "id": "OP09-020_r1",
+  "basicInfo": {
+    "name": "Come On!! We'll Fight You!!",
+    "set": "ST23",
+    "rarity": "R",
+    "image": "assets/images/ST23/OP09-020_r1.png",
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "EVENT",
+    "attribute": "",
+    "cost": 1,
+    "effects": [
+      {
+        "description": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "conditions": [
+          "It is your Main Phase",
+          "You have at least 5 cards in your deck"
+        ],
+        "steps": [
+          "Rest 1 DON!! card to pay the cost",
+          "Look at the top 5 cards of your deck",
+          "(Optional) Reveal up to 1 {Red-Haired Pirates} type card from those 5, excluding [Come On!! We'll Fight You!!], and add it to your hand",
+          "Place the remaining cards at the bottom of your deck in any order"
+        ],
+        "notes": [
+          "You can choose not to add a card to your hand",
+          "This effect happens during your Main Phase",
+          "The order of the remaining cards can be chosen freely"
+        ]
+      }
+    ],
+    "triggers": [
+      {
+        "description": "[Trigger] Draw 1 card.",
+        "conditions": [
+          "This card is revealed from your Life area as a Trigger"
+        ],
+        "steps": [
+          "(Optional) Reveal this card to your opponent",
+          "If you do, draw 1 card from your deck"
+        ],
+        "notes": [
+          "You can choose whether or not to use this Trigger effect",
+          "If you don't want to draw, you can ignore this effect"
+        ]
+      }
+    ]
+  }
+}

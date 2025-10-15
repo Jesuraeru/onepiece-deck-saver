@@ -1,0 +1,23 @@
+{
+  "id": "OP01-106",
+  "basicInfo": {
+    "name": "Basil Hawkins",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-106.png",
+    "types": [
+      "Animal Kingdom Pirates",
+      "Hawkins Pirates"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 4,
+    "power": 2000,
+    "counter": 1000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "OP01-005",
+  "basicInfo": {
+    "name": "Uta",
+    "set": "OP01",
+    "rarity": "R",
+    "image": "assets/images/OP01/OP01-005.png",
+    "types": [
+      "FILM"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 4,
+    "power": 4000,
+    "effects": [
+      {
+        "description": "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+        "conditions": [
+          "This Character is played onto the field"
+        ],
+        "steps": [
+          "Choose 1 red Character card from your trash that costs 3 or less and is not named [Uta]",
+          "(Optional) Add that chosen card to your hand"
+        ],
+        "notes": [
+          "This effect activates automatically when this Character is played",
+          "You don't have to choose a card if you don't want to"
+        ]
+      }
+    ]
+  }
+}

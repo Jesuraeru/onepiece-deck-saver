@@ -1,0 +1,52 @@
+{
+  "id": "ST23-001",
+  "basicInfo": {
+    "name": "Uta",
+    "set": "ST23",
+    "rarity": "SR",
+    "image": "assets/images/ST23/ST23-001.png",
+    "types": [
+      "FILM"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SPECIAL",
+    "cost": 6,
+    "power": 4000,
+    "counter": 2000,
+    "effects": [
+      {
+        "description": "If you have a Character with 10000 power or more, give this card in your hand -4 cost.",
+        "conditions": [
+          "You have at least 1 Character on your field with 10000 power or more",
+          "This card is in your hand"
+        ],
+        "steps": [
+          "Reduce the cost of this card in your hand by 4"
+        ],
+        "notes": [
+          "This effect automatically applies while the condition (having a Character with 10000 power or more) is true"
+        ]
+      },
+      {
+        "description": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "conditions": [
+          "Your opponent declares an attack",
+          "This card is active (not rested)"
+        ],
+        "steps": [
+          "(Optional) Rest this card to change the attack target to this Character"
+        ],
+        "notes": [
+          "You can only use this effect when your opponent declares an attack",
+          "You don't have to use this effect — it's your choice",
+          "After using this effect, this card becomes rested"
+        ]
+      }
+    ]
+  }
+}

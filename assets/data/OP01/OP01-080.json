@@ -1,0 +1,22 @@
+{
+  "id": "OP01-080",
+  "basicInfo": {
+    "name": "Miss Doublefinger(Zala)",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-080.png",
+    "types": [
+      "Baroque Works"
+    ],
+    "colors": [
+      "Blue"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "SLASH",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000
+  }
+}

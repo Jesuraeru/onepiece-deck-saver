@@ -1,0 +1,22 @@
+{
+  "id": "OP01-092",
+  "basicInfo": {
+    "name": "Urashima",
+    "set": "OP01",
+    "rarity": "C",
+    "image": "assets/images/OP01/OP01-092.png",
+    "types": [
+      "Land of Wano"
+    ],
+    "colors": [
+      "Purple"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "STRIKE",
+    "cost": 7,
+    "power": 9000,
+    "counter": 1000
+  }
+}

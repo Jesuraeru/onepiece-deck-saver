@@ -1,0 +1,22 @@
+{
+  "id": "OP01-042",
+  "basicInfo": {
+    "name": "Komurasaki",
+    "set": "OP01",
+    "rarity": "UC",
+    "image": "assets/images/OP01/OP01-042.png",
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "colors": [
+      "Green"
+    ]
+  },
+  "additionalInfo": {
+    "cardType": "CHARACTER",
+    "attribute": "WISDOM",
+    "cost": 1,
+    "counter": 1000
+  }
+}
